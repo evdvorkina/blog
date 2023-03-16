@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Дворкина Ева Владимировна
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ева
+last_name: Дворкина
 
 # Status emoji
 status:
@@ -14,34 +14,41 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студентка ФФМиЕН РУДН
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: РУДН
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Мне интересно машинное обучение, люблю рисовать. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Рисование
+  - Комедии
+  - Эзотерические языки программирования
+  - Смешарики
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - курс: Цифровой куратор 
+      Организатор: Колледж предпринимательства №11
+      год: 2022
+    - курс: Проектный менеджер
+      Организатор: brainz CROC ЗАО "КРОК инкорпорейтед"
+      год: 2022
+    - курс: Основы программирования в 1С
+      Организатор: ГБПОУ ПК им. Н. Н. Годовикова
+      год: 2022
+    - курс: Чертежник
+      Организатор: ГБПОУ ПК им. Н. Н. Годовикова
+      год: 2022
+    - курс: Изобразительное искусство
+      Организатор: Детская школа искусств №6
+      год: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +87,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Дворкина Ева - студентка Российского Университета Дружбы Народов, обучается на факультете физико-математических и естественных наук. Активно занимаюсь изучением программирования, математики и теории рисунка. Публикую свои рисунки, стараюсь уделять хобби как можно больше внимания, но не забываю отдыхать и спать. Хочу чтобы нейросети брали интегралы за меня.
 {style="text-align: justify;"}
