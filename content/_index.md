@@ -14,23 +14,27 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Навыки
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Python
+          description: 60%
+          icon: python
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Рисование
+          description: 120%
+          icon: paint-brush
           icon_pack: fas
-        - name: Photography
+        - name: Английский
+          description: 20%
+          icon: language
+          icon_pack: fas
+        - name: Обучение других
           description: 10%
-          icon: camera-retro
+          icon: mortar-board
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Опыт
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -40,34 +44,42 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Проджект-менеджер
+          company: brainz CROC
+          company_url: 'https://www.croc.ru/'
+          company_logo: White_Logo
+          location: Москва
+          date_start: '2022-10-01'
+          date_end: '2022-12-25'
           description: |2-
-              Responsibilities include:
+              Полученные навыки:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Customer-development
+              * Дизайн-мышление
+              * Наставничество
+        - title: Репетитор
+          company: Мой дом))
+          company_url: 'https://www.croc.ru/'
+          company_logo: teacher
+          location: Москва
+          date_start: '2023-01-27'
+          date_end: ''
+          description: Обучаю детей математике
+        - title: Разработчик
+          company: brainz CROC
+          company_url: 'https://www.croc.ru/'
+          company_logo: Green_Logo
+          location: Москва
+          date_start: '2020-01-11'
+          date_end: '2021-03-31'
+          description: Научилась создавать сайты и работать в команде
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
+      title: 'Достижения'
+      subtitle: мои достижения
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
@@ -76,29 +88,28 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://stepik.org/catalog
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-10-25'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Stepik
+          organization_url: https://stepik.org/catalog
+          title: Введение "Операционные системы"
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: https://2127.mskobr.ru/proekty/nashi-proekty/profilnyiy-tsentr-mtm---moskovskiy-tehnologicheskiy-marafon
+          date_end: '2022-03-20'
+          date_start: '2021-10-20'
+          description: Решение CTF
+          organization: Министерство образования
+          organization_url: https://2127.mskobr.ru/proekty/nashi-proekty/profilnyiy-tsentr-mtm---moskovskiy-tehnologicheskiy-marafon
+          title: Кибертон
+        - certificate_url: https://im.mcko.ru/potential.php
+          date_end: '2022-02-14'
+          date_start: '2022-04-03'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: МЦКО
+          organization_url: https://im.mcko.ru/
+          title: Конкурс "Мегаполис потенциал"
           url: ''
     design:
       columns: '2'
