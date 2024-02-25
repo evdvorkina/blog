@@ -88,7 +88,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://stepik.org/catalog
+        - certificate_url: [https://stepik.org/catalog](https://stepik.org/cert/2081530)
           date_end: ''
           date_start: '2022-10-25'
           description: ''
